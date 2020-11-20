@@ -1,0 +1,51 @@
+{
+ "extraction": [
+  {
+   "name": "date",
+   "type": "date"
+  },
+  {
+   "name": "tax",
+   "type": "number"
+  },
+  {
+   "name": "total",
+   "type": "number"
+  },
+  {
+   "name": "invoice-no",
+   "type": "string"
+  },
+  {
+   "name": "description",
+   "type": "string",
+   "section": "items"
+  },
+  {
+   "name": "unit-price",
+   "type": "number",
+   "section": "items"
+  },
+  {
+   "name": "net-amount",
+   "type": "number"
+  },
+  {
+   "name": "name",
+   "type": "string"
+  },
+  {
+   "name": "quantity",
+   "type": "number",
+   "section": "items"
+  },
+  {
+   "name": "line-amount",
+   "type": "number",
+   "section": "items"
+  }
+ ],
+ "classification": {
+
+ }
+}

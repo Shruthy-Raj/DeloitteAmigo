@@ -1,0 +1,4848 @@
+{
+ "fields": {
+  "date": "2017-12-13",
+  "tax": "9",
+  "total": "1743.27",
+  "invoice-no": "BLR\/GST\/6478",
+  "net-amount": "2057.05",
+  "name": "HPI382675",
+  "items": [
+   {
+    "description": "HP-951XL Cyan Ink Cartridge",
+    "unit-price": "1743.27",
+    "quantity": "1",
+    "line-amount": "1743.27"
+   }
+  ],
+  "language": ""
+ },
+ "fname": "training_dataset_qwerty-labelledset-demoset-5111919856-in97-2018-blrgst6478.tiff.jpg",
+ "lines": [
+  "Pesse",
+  "Tax Invoice (ORIGINAL FOR RECIPIENT)",
+  "Tax Invoice Cum Delivery Note",
+  "Invoice No. e-Sugam No. Dated",
+  "BLR\/GST\/6478 13-Dec-2017",
+  "Delivery Note Mode\/Terms of Payment",
+  "Supplier's Ref. Other Reference(s)",
+  "Buyer's Order No. Dated",
+  "HPI382675 13-Dec-2017",
+  "Despatch Document No. Delivery Note Date",
+  "Despatched through Destination",
+  "Terms of Delivery",
+  "SI Description of Goods HSN\/SAC Part No. Quantity Rate per Disc. % Amount",
+  "No.",
+  "1 HP-951XL Cyan Ink Cartridge 8443 CN046AA 1 Nos 1,743.27 Nos 1,743.27",
+  "T000983342\/CN47LBV0ZS",
+  "OUTPUT CGST @ 9% 9 % 156.89",
+  "OUTPUT SGST @ 9% 9 % 156.89",
+  "Total 1 Nos A 2,057.05",
+  "Amount Chargeable (in words) E. T&O.E",
+  "INR Two Thousand Fifty Seven and Five paise Only",
+  "HSN\/SAC Taxable Central Tax State Tax Total",
+  "Value Rate Amount Rate Amount Tax Amount",
+  "8443 1.743.27 9% 156.89 9% 156.89 313.78",
+  "Total 1,743.27 156.89 156.89 313.78",
+  "Tax Amount (in words) : INR Three Hupetred Thirteen and Seventy Eight paise Only",
+  "Company's P",
+  "Declaration rint",
+  "We declare t",
+  "goods descri",
+  "correct."
+ ],
+ "line_tags": [
+  "",
+  "",
+  "",
+  "",
+  "invoice-no",
+  "",
+  "",
+  "",
+  "name",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "line-amount",
+  "",
+  "",
+  "",
+  "net-amount",
+  "",
+  "",
+  "",
+  "",
+  "tax",
+  "total",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+ ],
+ "words": [
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1120,
+       "y": 0
+      },
+      {
+       "x": 1177,
+       "y": 0
+      },
+      {
+       "x": 1177,
+       "y": 18
+      },
+      {
+       "x": 1120,
+       "y": 18
+      }
+     ]
+    },
+    "description": "Pesse",
+    "score": 0.06,
+    "line": 0,
+    "__imgscaled": true,
+    "x": 1120,
+    "y": 0,
+    "height": 18,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1061,
+       "y": 45
+      },
+      {
+       "x": 1139,
+       "y": 45
+      },
+      {
+       "x": 1139,
+       "y": 85
+      },
+      {
+       "x": 1061,
+       "y": 85
+      }
+     ]
+    },
+    "description": "Tax",
+    "score": 0.99,
+    "line": 1,
+    "__imgscaled": true,
+    "x": 1061,
+    "y": 45,
+    "height": 40,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1144,
+       "y": 43
+      },
+      {
+       "x": 1289,
+       "y": 43
+      },
+      {
+       "x": 1289,
+       "y": 83
+      },
+      {
+       "x": 1144,
+       "y": 83
+      }
+     ]
+    },
+    "description": "Invoice",
+    "score": 0.99,
+    "line": 1,
+    "__imgscaled": true,
+    "x": 1144,
+    "y": 43,
+    "height": 40,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1585,
+       "y": 34
+      },
+      {
+       "x": 1745,
+       "y": 34
+      },
+      {
+       "x": 1745,
+       "y": 71
+      },
+      {
+       "x": 1585,
+       "y": 71
+      }
+     ]
+    },
+    "description": "(ORIGINAL",
+    "score": 0.99,
+    "line": 1,
+    "__imgscaled": true,
+    "x": 1585,
+    "y": 34,
+    "height": 37,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1748,
+       "y": 33
+      },
+      {
+       "x": 1818,
+       "y": 33
+      },
+      {
+       "x": 1818,
+       "y": 65
+      },
+      {
+       "x": 1748,
+       "y": 65
+      }
+     ]
+    },
+    "description": "FOR",
+    "score": 0.99,
+    "line": 1,
+    "__imgscaled": true,
+    "x": 1748,
+    "y": 33,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1821,
+       "y": 31
+      },
+      {
+       "x": 1994,
+       "y": 31
+      },
+      {
+       "x": 1994,
+       "y": 68
+      },
+      {
+       "x": 1821,
+       "y": 68
+      }
+     ]
+    },
+    "description": "RECIPIENT)",
+    "score": 0.99,
+    "line": 1,
+    "__imgscaled": true,
+    "x": 1821,
+    "y": 31,
+    "height": 37,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 963,
+       "y": 91
+      },
+      {
+       "x": 1020,
+       "y": 91
+      },
+      {
+       "x": 1020,
+       "y": 123
+      },
+      {
+       "x": 963,
+       "y": 123
+      }
+     ]
+    },
+    "description": "Tax",
+    "score": 0.99,
+    "line": 2,
+    "__imgscaled": true,
+    "x": 963,
+    "y": 91,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1024,
+       "y": 92
+      },
+      {
+       "x": 1125,
+       "y": 92
+      },
+      {
+       "x": 1125,
+       "y": 123
+      },
+      {
+       "x": 1024,
+       "y": 123
+      }
+     ]
+    },
+    "description": "Invoice",
+    "score": 0.99,
+    "line": 2,
+    "__imgscaled": true,
+    "x": 1024,
+    "y": 92,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1129,
+       "y": 91
+      },
+      {
+       "x": 1199,
+       "y": 91
+      },
+      {
+       "x": 1199,
+       "y": 122
+      },
+      {
+       "x": 1129,
+       "y": 122
+      }
+     ]
+    },
+    "description": "Cum",
+    "score": 0.99,
+    "line": 2,
+    "__imgscaled": true,
+    "x": 1129,
+    "y": 91,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1204,
+       "y": 90
+      },
+      {
+       "x": 1317,
+       "y": 90
+      },
+      {
+       "x": 1317,
+       "y": 126
+      },
+      {
+       "x": 1204,
+       "y": 126
+      }
+     ]
+    },
+    "description": "Delivery",
+    "score": 0.99,
+    "line": 2,
+    "__imgscaled": true,
+    "x": 1204,
+    "y": 90,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1319,
+       "y": 89
+      },
+      {
+       "x": 1390,
+       "y": 89
+      },
+      {
+       "x": 1390,
+       "y": 119
+      },
+      {
+       "x": 1319,
+       "y": 119
+      }
+     ]
+    },
+    "description": "Note",
+    "score": 0.99,
+    "line": 2,
+    "__imgscaled": true,
+    "x": 1319,
+    "y": 89,
+    "height": 30,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1200,
+       "y": 164
+      },
+      {
+       "x": 1300,
+       "y": 164
+      },
+      {
+       "x": 1300,
+       "y": 194
+      },
+      {
+       "x": 1200,
+       "y": 194
+      }
+     ]
+    },
+    "description": "Invoice",
+    "score": 0.99,
+    "line": 3,
+    "__imgscaled": true,
+    "x": 1200,
+    "y": 164,
+    "height": 30,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1303,
+       "y": 162
+      },
+      {
+       "x": 1356,
+       "y": 162
+      },
+      {
+       "x": 1356,
+       "y": 194
+      },
+      {
+       "x": 1303,
+       "y": 194
+      }
+     ]
+    },
+    "description": "No.",
+    "score": 0.99,
+    "line": 3,
+    "__imgscaled": true,
+    "x": 1303,
+    "y": 162,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1421,
+       "y": 162
+      },
+      {
+       "x": 1544,
+       "y": 162
+      },
+      {
+       "x": 1544,
+       "y": 201
+      },
+      {
+       "x": 1421,
+       "y": 201
+      }
+     ]
+    },
+    "description": "e-Sugam",
+    "score": 0.99,
+    "line": 3,
+    "__imgscaled": true,
+    "x": 1421,
+    "y": 162,
+    "height": 39,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1546,
+       "y": 159
+      },
+      {
+       "x": 1595,
+       "y": 159
+      },
+      {
+       "x": 1595,
+       "y": 192
+      },
+      {
+       "x": 1546,
+       "y": 192
+      }
+     ]
+    },
+    "description": "No.",
+    "score": 0.99,
+    "line": 3,
+    "__imgscaled": true,
+    "x": 1546,
+    "y": 159,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1611,
+       "y": 158
+      },
+      {
+       "x": 1697,
+       "y": 158
+      },
+      {
+       "x": 1697,
+       "y": 191
+      },
+      {
+       "x": 1611,
+       "y": 191
+      }
+     ]
+    },
+    "description": "Dated",
+    "score": 0.99,
+    "line": 3,
+    "__imgscaled": true,
+    "x": 1611,
+    "y": 158,
+    "height": 33,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1201,
+       "y": 210
+      },
+      {
+       "x": 1387,
+       "y": 210
+      },
+      {
+       "x": 1387,
+       "y": 245
+      },
+      {
+       "x": 1201,
+       "y": 245
+      }
+     ]
+    },
+    "description": "BLR\/GST\/6478",
+    "score": 0.93,
+    "line": 4,
+    "__imgscaled": true,
+    "x": 1201,
+    "y": 210,
+    "height": 35,
+    "tag": "invoice-no"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1611,
+       "y": 206
+      },
+      {
+       "x": 1814,
+       "y": 206
+      },
+      {
+       "x": 1814,
+       "y": 243
+      },
+      {
+       "x": 1611,
+       "y": 243
+      }
+     ]
+    },
+    "description": "13-Dec-2017",
+    "score": 0.99,
+    "line": 4,
+    "__imgscaled": true,
+    "x": 1611,
+    "y": 206,
+    "height": 37,
+    "tag": "date"
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1200,
+       "y": 252
+      },
+      {
+       "x": 1314,
+       "y": 252
+      },
+      {
+       "x": 1314,
+       "y": 288
+      },
+      {
+       "x": 1200,
+       "y": 288
+      }
+     ]
+    },
+    "description": "Delivery",
+    "score": 0.99,
+    "line": 5,
+    "__imgscaled": true,
+    "x": 1200,
+    "y": 252,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1317,
+       "y": 251
+      },
+      {
+       "x": 1388,
+       "y": 251
+      },
+      {
+       "x": 1388,
+       "y": 282
+      },
+      {
+       "x": 1317,
+       "y": 282
+      }
+     ]
+    },
+    "description": "Note",
+    "score": 0.99,
+    "line": 5,
+    "__imgscaled": true,
+    "x": 1317,
+    "y": 251,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1612,
+       "y": 246
+      },
+      {
+       "x": 1789,
+       "y": 246
+      },
+      {
+       "x": 1789,
+       "y": 278
+      },
+      {
+       "x": 1612,
+       "y": 278
+      }
+     ]
+    },
+    "description": "Mode\/Terms",
+    "score": 0.99,
+    "line": 5,
+    "__imgscaled": true,
+    "x": 1612,
+    "y": 246,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1791,
+       "y": 244
+      },
+      {
+       "x": 1826,
+       "y": 244
+      },
+      {
+       "x": 1826,
+       "y": 278
+      },
+      {
+       "x": 1791,
+       "y": 278
+      }
+     ]
+    },
+    "description": "of",
+    "score": 0.99,
+    "line": 5,
+    "__imgscaled": true,
+    "x": 1791,
+    "y": 244,
+    "height": 34,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1826,
+       "y": 245
+      },
+      {
+       "x": 1949,
+       "y": 245
+      },
+      {
+       "x": 1949,
+       "y": 281
+      },
+      {
+       "x": 1826,
+       "y": 281
+      }
+     ]
+    },
+    "description": "Payment",
+    "score": 0.99,
+    "line": 5,
+    "__imgscaled": true,
+    "x": 1826,
+    "y": 245,
+    "height": 36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1201,
+       "y": 340
+      },
+      {
+       "x": 1335,
+       "y": 340
+      },
+      {
+       "x": 1335,
+       "y": 377
+      },
+      {
+       "x": 1201,
+       "y": 377
+      }
+     ]
+    },
+    "description": "Supplier's",
+    "score": 0.99,
+    "line": 6,
+    "__imgscaled": true,
+    "x": 1201,
+    "y": 340,
+    "height": 37,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1342,
+       "y": 339
+      },
+      {
+       "x": 1402,
+       "y": 339
+      },
+      {
+       "x": 1402,
+       "y": 371
+      },
+      {
+       "x": 1342,
+       "y": 371
+      }
+     ]
+    },
+    "description": "Ref.",
+    "score": 0.99,
+    "line": 6,
+    "__imgscaled": true,
+    "x": 1342,
+    "y": 339,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1612,
+       "y": 336
+      },
+      {
+       "x": 1697,
+       "y": 336
+      },
+      {
+       "x": 1697,
+       "y": 367
+      },
+      {
+       "x": 1612,
+       "y": 367
+      }
+     ]
+    },
+    "description": "Other",
+    "score": 0.99,
+    "line": 6,
+    "__imgscaled": true,
+    "x": 1612,
+    "y": 336,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1698,
+       "y": 334
+      },
+      {
+       "x": 1875,
+       "y": 334
+      },
+      {
+       "x": 1875,
+       "y": 370
+      },
+      {
+       "x": 1698,
+       "y": 370
+      }
+     ]
+    },
+    "description": "Reference(s)",
+    "score": 0.97,
+    "line": 6,
+    "__imgscaled": true,
+    "x": 1698,
+    "y": 334,
+    "height": 36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1202,
+       "y": 429
+      },
+      {
+       "x": 1307,
+       "y": 429
+      },
+      {
+       "x": 1307,
+       "y": 464
+      },
+      {
+       "x": 1202,
+       "y": 464
+      }
+     ]
+    },
+    "description": "Buyer's",
+    "score": 0.99,
+    "line": 7,
+    "__imgscaled": true,
+    "x": 1202,
+    "y": 429,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1308,
+       "y": 427
+      },
+      {
+       "x": 1393,
+       "y": 427
+      },
+      {
+       "x": 1393,
+       "y": 458
+      },
+      {
+       "x": 1308,
+       "y": 458
+      }
+     ]
+    },
+    "description": "Order",
+    "score": 0.99,
+    "line": 7,
+    "__imgscaled": true,
+    "x": 1308,
+    "y": 427,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1396,
+       "y": 426
+      },
+      {
+       "x": 1447,
+       "y": 426
+      },
+      {
+       "x": 1447,
+       "y": 457
+      },
+      {
+       "x": 1396,
+       "y": 457
+      }
+     ]
+    },
+    "description": "No.",
+    "score": 0.99,
+    "line": 7,
+    "__imgscaled": true,
+    "x": 1396,
+    "y": 426,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1614,
+       "y": 425
+      },
+      {
+       "x": 1702,
+       "y": 425
+      },
+      {
+       "x": 1702,
+       "y": 456
+      },
+      {
+       "x": 1614,
+       "y": 456
+      }
+     ]
+    },
+    "description": "Dated",
+    "score": 0.99,
+    "line": 7,
+    "__imgscaled": true,
+    "x": 1614,
+    "y": 425,
+    "height": 31,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1203,
+       "y": 474
+      },
+      {
+       "x": 1376,
+       "y": 474
+      },
+      {
+       "x": 1376,
+       "y": 509
+      },
+      {
+       "x": 1203,
+       "y": 509
+      }
+     ]
+    },
+    "description": "HPI382675",
+    "score": 0.95,
+    "line": 8,
+    "__imgscaled": true,
+    "x": 1203,
+    "y": 474,
+    "height": 35,
+    "tag": "name"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1615,
+       "y": 470
+      },
+      {
+       "x": 1814,
+       "y": 470
+      },
+      {
+       "x": 1814,
+       "y": 505
+      },
+      {
+       "x": 1615,
+       "y": 505
+      }
+     ]
+    },
+    "description": "13-Dec-2017",
+    "score": 0.99,
+    "line": 8,
+    "__imgscaled": true,
+    "x": 1615,
+    "y": 470,
+    "height": 35,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1203,
+       "y": 515
+      },
+      {
+       "x": 1336,
+       "y": 515
+      },
+      {
+       "x": 1336,
+       "y": 553
+      },
+      {
+       "x": 1203,
+       "y": 553
+      }
+     ]
+    },
+    "description": "Despatch",
+    "score": 0.99,
+    "line": 9,
+    "__imgscaled": true,
+    "x": 1203,
+    "y": 515,
+    "height": 38,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1341,
+       "y": 514
+      },
+      {
+       "x": 1487,
+       "y": 514
+      },
+      {
+       "x": 1487,
+       "y": 545
+      },
+      {
+       "x": 1341,
+       "y": 545
+      }
+     ]
+    },
+    "description": "Document",
+    "score": 0.99,
+    "line": 9,
+    "__imgscaled": true,
+    "x": 1341,
+    "y": 514,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1489,
+       "y": 513
+      },
+      {
+       "x": 1540,
+       "y": 513
+      },
+      {
+       "x": 1540,
+       "y": 544
+      },
+      {
+       "x": 1489,
+       "y": 544
+      }
+     ]
+    },
+    "description": "No.",
+    "score": 0.99,
+    "line": 9,
+    "__imgscaled": true,
+    "x": 1489,
+    "y": 513,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1616,
+       "y": 511
+      },
+      {
+       "x": 1731,
+       "y": 511
+      },
+      {
+       "x": 1731,
+       "y": 547
+      },
+      {
+       "x": 1616,
+       "y": 547
+      }
+     ]
+    },
+    "description": "Delivery",
+    "score": 0.99,
+    "line": 9,
+    "__imgscaled": true,
+    "x": 1616,
+    "y": 511,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1734,
+       "y": 510
+      },
+      {
+       "x": 1805,
+       "y": 510
+      },
+      {
+       "x": 1805,
+       "y": 541
+      },
+      {
+       "x": 1734,
+       "y": 541
+      }
+     ]
+    },
+    "description": "Note",
+    "score": 0.99,
+    "line": 9,
+    "__imgscaled": true,
+    "x": 1734,
+    "y": 510,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1807,
+       "y": 509
+      },
+      {
+       "x": 1876,
+       "y": 509
+      },
+      {
+       "x": 1876,
+       "y": 541
+      },
+      {
+       "x": 1807,
+       "y": 541
+      }
+     ]
+    },
+    "description": "Date",
+    "score": 0.99,
+    "line": 9,
+    "__imgscaled": true,
+    "x": 1807,
+    "y": 509,
+    "height": 32,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1206,
+       "y": 603
+      },
+      {
+       "x": 1373,
+       "y": 603
+      },
+      {
+       "x": 1373,
+       "y": 640
+      },
+      {
+       "x": 1206,
+       "y": 640
+      }
+     ]
+    },
+    "description": "Despatched",
+    "score": 0.99,
+    "line": 10,
+    "__imgscaled": true,
+    "x": 1206,
+    "y": 603,
+    "height": 37,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1375,
+       "y": 603
+      },
+      {
+       "x": 1485,
+       "y": 603
+      },
+      {
+       "x": 1485,
+       "y": 638
+      },
+      {
+       "x": 1375,
+       "y": 638
+      }
+     ]
+    },
+    "description": "through",
+    "score": 0.99,
+    "line": 10,
+    "__imgscaled": true,
+    "x": 1375,
+    "y": 603,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1617,
+       "y": 599
+      },
+      {
+       "x": 1773,
+       "y": 599
+      },
+      {
+       "x": 1773,
+       "y": 630
+      },
+      {
+       "x": 1617,
+       "y": 630
+      }
+     ]
+    },
+    "description": "Destination",
+    "score": 0.99,
+    "line": 10,
+    "__imgscaled": true,
+    "x": 1617,
+    "y": 599,
+    "height": 31,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1205,
+       "y": 693
+      },
+      {
+       "x": 1298,
+       "y": 693
+      },
+      {
+       "x": 1298,
+       "y": 725
+      },
+      {
+       "x": 1205,
+       "y": 725
+      }
+     ]
+    },
+    "description": "Terms",
+    "score": 0.99,
+    "line": 11,
+    "__imgscaled": true,
+    "x": 1205,
+    "y": 693,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1300,
+       "y": 692
+      },
+      {
+       "x": 1333,
+       "y": 692
+      },
+      {
+       "x": 1333,
+       "y": 723
+      },
+      {
+       "x": 1300,
+       "y": 723
+      }
+     ]
+    },
+    "description": "of",
+    "score": 0.99,
+    "line": 11,
+    "__imgscaled": true,
+    "x": 1300,
+    "y": 692,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1335,
+       "y": 692
+      },
+      {
+       "x": 1450,
+       "y": 692
+      },
+      {
+       "x": 1450,
+       "y": 730
+      },
+      {
+       "x": 1335,
+       "y": 730
+      }
+     ]
+    },
+    "description": "Delivery",
+    "score": 0.99,
+    "line": 11,
+    "__imgscaled": true,
+    "x": 1335,
+    "y": 692,
+    "height": 38,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 378,
+       "y": 1186
+      },
+      {
+       "x": 416,
+       "y": 1186
+      },
+      {
+       "x": 416,
+       "y": 1221
+      },
+      {
+       "x": 378,
+       "y": 1221
+      }
+     ]
+    },
+    "description": "SI",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 378,
+    "y": 1186,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 512,
+       "y": 1185
+      },
+      {
+       "x": 670,
+       "y": 1185
+      },
+      {
+       "x": 670,
+       "y": 1220
+      },
+      {
+       "x": 512,
+       "y": 1220
+      }
+     ]
+    },
+    "description": "Description",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 512,
+    "y": 1185,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 673,
+       "y": 1185
+      },
+      {
+       "x": 707,
+       "y": 1185
+      },
+      {
+       "x": 707,
+       "y": 1217
+      },
+      {
+       "x": 673,
+       "y": 1217
+      }
+     ]
+    },
+    "description": "of",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 673,
+    "y": 1185,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 708,
+       "y": 1183
+      },
+      {
+       "x": 803,
+       "y": 1183
+      },
+      {
+       "x": 803,
+       "y": 1216
+      },
+      {
+       "x": 708,
+       "y": 1216
+      }
+     ]
+    },
+    "description": "Goods",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 708,
+    "y": 1183,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 929,
+       "y": 1181
+      },
+      {
+       "x": 1070,
+       "y": 1181
+      },
+      {
+       "x": 1070,
+       "y": 1214
+      },
+      {
+       "x": 929,
+       "y": 1214
+      }
+     ]
+    },
+    "description": "HSN\/SAC",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 929,
+    "y": 1181,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1111,
+       "y": 1182
+      },
+      {
+       "x": 1173,
+       "y": 1182
+      },
+      {
+       "x": 1173,
+       "y": 1212
+      },
+      {
+       "x": 1111,
+       "y": 1212
+      }
+     ]
+    },
+    "description": "Part",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 1111,
+    "y": 1182,
+    "height": 30,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1176,
+       "y": 1180
+      },
+      {
+       "x": 1228,
+       "y": 1180
+      },
+      {
+       "x": 1228,
+       "y": 1212
+      },
+      {
+       "x": 1176,
+       "y": 1212
+      }
+     ]
+    },
+    "description": "No.",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 1176,
+    "y": 1180,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1280,
+       "y": 1179
+      },
+      {
+       "x": 1400,
+       "y": 1179
+      },
+      {
+       "x": 1400,
+       "y": 1218
+      },
+      {
+       "x": 1280,
+       "y": 1218
+      }
+     ]
+    },
+    "description": "Quantity",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 1280,
+    "y": 1179,
+    "height": 39,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1475,
+       "y": 1179
+      },
+      {
+       "x": 1546,
+       "y": 1179
+      },
+      {
+       "x": 1546,
+       "y": 1211
+      },
+      {
+       "x": 1475,
+       "y": 1211
+      }
+     ]
+    },
+    "description": "Rate",
+    "score": 0.92,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 1475,
+    "y": 1179,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1608,
+       "y": 1184
+      },
+      {
+       "x": 1659,
+       "y": 1184
+      },
+      {
+       "x": 1659,
+       "y": 1215
+      },
+      {
+       "x": 1608,
+       "y": 1215
+      }
+     ]
+    },
+    "description": "per",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 1608,
+    "y": 1184,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1677,
+       "y": 1177
+      },
+      {
+       "x": 1744,
+       "y": 1177
+      },
+      {
+       "x": 1744,
+       "y": 1209
+      },
+      {
+       "x": 1677,
+       "y": 1209
+      }
+     ]
+    },
+    "description": "Disc.",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 1677,
+    "y": 1177,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1746,
+       "y": 1176
+      },
+      {
+       "x": 1778,
+       "y": 1176
+      },
+      {
+       "x": 1778,
+       "y": 1209
+      },
+      {
+       "x": 1746,
+       "y": 1209
+      }
+     ]
+    },
+    "description": "%",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 1746,
+    "y": 1176,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1849,
+       "y": 1176
+      },
+      {
+       "x": 1963,
+       "y": 1176
+      },
+      {
+       "x": 1963,
+       "y": 1208
+      },
+      {
+       "x": 1849,
+       "y": 1208
+      }
+     ]
+    },
+    "description": "Amount",
+    "score": 0.99,
+    "line": 12,
+    "__imgscaled": true,
+    "x": 1849,
+    "y": 1176,
+    "height": 32,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 380,
+       "y": 1228
+      },
+      {
+       "x": 413,
+       "y": 1228
+      },
+      {
+       "x": 413,
+       "y": 1262
+      },
+      {
+       "x": 380,
+       "y": 1262
+      }
+     ]
+    },
+    "description": "No.",
+    "score": 0.97,
+    "line": 13,
+    "__imgscaled": true,
+    "x": 380,
+    "y": 1228,
+    "height": 34,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 380,
+       "y": 1289
+      },
+      {
+       "x": 398,
+       "y": 1289
+      },
+      {
+       "x": 398,
+       "y": 1323
+      },
+      {
+       "x": 380,
+       "y": 1323
+      }
+     ]
+    },
+    "description": "1",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 380,
+    "y": 1289,
+    "height": 34,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 430,
+       "y": 1287
+      },
+      {
+       "x": 591,
+       "y": 1287
+      },
+      {
+       "x": 591,
+       "y": 1324
+      },
+      {
+       "x": 430,
+       "y": 1324
+      }
+     ]
+    },
+    "description": "HP-951XL",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 430,
+    "y": 1287,
+    "height": 37,
+    "tag": "description"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 593,
+       "y": 1287
+      },
+      {
+       "x": 680,
+       "y": 1287
+      },
+      {
+       "x": 680,
+       "y": 1330
+      },
+      {
+       "x": 593,
+       "y": 1330
+      }
+     ]
+    },
+    "description": "Cyan",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 593,
+    "y": 1287,
+    "height": 43,
+    "tag": "description"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 686,
+       "y": 1287
+      },
+      {
+       "x": 739,
+       "y": 1287
+      },
+      {
+       "x": 739,
+       "y": 1322
+      },
+      {
+       "x": 686,
+       "y": 1322
+      }
+     ]
+    },
+    "description": "Ink",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 686,
+    "y": 1287,
+    "height": 35,
+    "tag": "description"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 744,
+       "y": 1285
+      },
+      {
+       "x": 898,
+       "y": 1285
+      },
+      {
+       "x": 898,
+       "y": 1328
+      },
+      {
+       "x": 744,
+       "y": 1328
+      }
+     ]
+    },
+    "description": "Cartridge",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 744,
+    "y": 1285,
+    "height": 43,
+    "tag": "description"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 921,
+       "y": 1284
+      },
+      {
+       "x": 996,
+       "y": 1284
+      },
+      {
+       "x": 996,
+       "y": 1315
+      },
+      {
+       "x": 921,
+       "y": 1315
+      }
+     ]
+    },
+    "description": "8443",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 921,
+    "y": 1284,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1110,
+       "y": 1282
+      },
+      {
+       "x": 1251,
+       "y": 1282
+      },
+      {
+       "x": 1251,
+       "y": 1314
+      },
+      {
+       "x": 1110,
+       "y": 1314
+      }
+     ]
+    },
+    "description": "CN046AA",
+    "score": 0.98,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 1110,
+    "y": 1282,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1323,
+       "y": 1282
+      },
+      {
+       "x": 1346,
+       "y": 1282
+      },
+      {
+       "x": 1346,
+       "y": 1317
+      },
+      {
+       "x": 1323,
+       "y": 1317
+      }
+     ]
+    },
+    "description": "1",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 1323,
+    "y": 1282,
+    "height": 35,
+    "tag": "quantity"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1350,
+       "y": 1282
+      },
+      {
+       "x": 1419,
+       "y": 1282
+      },
+      {
+       "x": 1419,
+       "y": 1317
+      },
+      {
+       "x": 1350,
+       "y": 1317
+      }
+     ]
+    },
+    "description": "Nos",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 1350,
+    "y": 1282,
+    "height": 35,
+    "tag": "quantity"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1468,
+       "y": 1279
+      },
+      {
+       "x": 1591,
+       "y": 1279
+      },
+      {
+       "x": 1591,
+       "y": 1314
+      },
+      {
+       "x": 1468,
+       "y": 1314
+      }
+     ]
+    },
+    "description": "1,743.27",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 1468,
+    "y": 1279,
+    "height": 35,
+    "tag": "unit-price"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1606,
+       "y": 1279
+      },
+      {
+       "x": 1667,
+       "y": 1279
+      },
+      {
+       "x": 1667,
+       "y": 1310
+      },
+      {
+       "x": 1606,
+       "y": 1310
+      }
+     ]
+    },
+    "description": "Nos",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 1606,
+    "y": 1279,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1888,
+       "y": 1277
+      },
+      {
+       "x": 2021,
+       "y": 1277
+      },
+      {
+       "x": 2021,
+       "y": 1318
+      },
+      {
+       "x": 1888,
+       "y": 1318
+      }
+     ]
+    },
+    "description": "1,743.27",
+    "score": 0.99,
+    "line": 14,
+    "__imgscaled": true,
+    "x": 1888,
+    "y": 1277,
+    "height": 41,
+    "tag": "line-amount"
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 468,
+       "y": 1326
+      },
+      {
+       "x": 839,
+       "y": 1326
+      },
+      {
+       "x": 839,
+       "y": 1361
+      },
+      {
+       "x": 468,
+       "y": 1361
+      }
+     ]
+    },
+    "description": "T000983342\/CN47LBV0ZS",
+    "score": 0.91,
+    "line": 15,
+    "__imgscaled": true,
+    "x": 468,
+    "y": 1326,
+    "height": 35,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 565,
+       "y": 1448
+      },
+      {
+       "x": 711,
+       "y": 1448
+      },
+      {
+       "x": 711,
+       "y": 1485
+      },
+      {
+       "x": 565,
+       "y": 1485
+      }
+     ]
+    },
+    "description": "OUTPUT",
+    "score": 0.99,
+    "line": 16,
+    "__imgscaled": true,
+    "x": 565,
+    "y": 1448,
+    "height": 37,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 712,
+       "y": 1449
+      },
+      {
+       "x": 813,
+       "y": 1449
+      },
+      {
+       "x": 813,
+       "y": 1484
+      },
+      {
+       "x": 712,
+       "y": 1484
+      }
+     ]
+    },
+    "description": "CGST",
+    "score": 0.99,
+    "line": 16,
+    "__imgscaled": true,
+    "x": 712,
+    "y": 1449,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 813,
+       "y": 1449
+      },
+      {
+       "x": 853,
+       "y": 1449
+      },
+      {
+       "x": 853,
+       "y": 1488
+      },
+      {
+       "x": 813,
+       "y": 1488
+      }
+     ]
+    },
+    "description": "@",
+    "score": 0.99,
+    "line": 16,
+    "__imgscaled": true,
+    "x": 813,
+    "y": 1449,
+    "height": 39,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 856,
+       "y": 1448
+      },
+      {
+       "x": 911,
+       "y": 1448
+      },
+      {
+       "x": 911,
+       "y": 1484
+      },
+      {
+       "x": 856,
+       "y": 1484
+      }
+     ]
+    },
+    "description": "9%",
+    "score": 0.99,
+    "line": 16,
+    "__imgscaled": true,
+    "x": 856,
+    "y": 1448,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1568,
+       "y": 1443
+      },
+      {
+       "x": 1594,
+       "y": 1443
+      },
+      {
+       "x": 1594,
+       "y": 1479
+      },
+      {
+       "x": 1568,
+       "y": 1479
+      }
+     ]
+    },
+    "description": "9",
+    "score": 0.99,
+    "line": 16,
+    "__imgscaled": true,
+    "x": 1568,
+    "y": 1443,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1604,
+       "y": 1443
+      },
+      {
+       "x": 1638,
+       "y": 1443
+      },
+      {
+       "x": 1638,
+       "y": 1479
+      },
+      {
+       "x": 1604,
+       "y": 1479
+      }
+     ]
+    },
+    "description": "%",
+    "score": 0.99,
+    "line": 16,
+    "__imgscaled": true,
+    "x": 1604,
+    "y": 1443,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1917,
+       "y": 1443
+      },
+      {
+       "x": 2023,
+       "y": 1443
+      },
+      {
+       "x": 2023,
+       "y": 1476
+      },
+      {
+       "x": 1917,
+       "y": 1476
+      }
+     ]
+    },
+    "description": "156.89",
+    "score": 0.99,
+    "line": 16,
+    "__imgscaled": true,
+    "x": 1917,
+    "y": 1443,
+    "height": 33,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 567,
+       "y": 1490
+      },
+      {
+       "x": 713,
+       "y": 1490
+      },
+      {
+       "x": 713,
+       "y": 1526
+      },
+      {
+       "x": 567,
+       "y": 1526
+      }
+     ]
+    },
+    "description": "OUTPUT",
+    "score": 0.99,
+    "line": 17,
+    "__imgscaled": true,
+    "x": 567,
+    "y": 1490,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 714,
+       "y": 1490
+      },
+      {
+       "x": 814,
+       "y": 1490
+      },
+      {
+       "x": 814,
+       "y": 1525
+      },
+      {
+       "x": 714,
+       "y": 1525
+      }
+     ]
+    },
+    "description": "SGST",
+    "score": 0.99,
+    "line": 17,
+    "__imgscaled": true,
+    "x": 714,
+    "y": 1490,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 814,
+       "y": 1491
+      },
+      {
+       "x": 854,
+       "y": 1491
+      },
+      {
+       "x": 854,
+       "y": 1531
+      },
+      {
+       "x": 814,
+       "y": 1531
+      }
+     ]
+    },
+    "description": "@",
+    "score": 0.99,
+    "line": 17,
+    "__imgscaled": true,
+    "x": 814,
+    "y": 1491,
+    "height": 40,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 856,
+       "y": 1490
+      },
+      {
+       "x": 913,
+       "y": 1490
+      },
+      {
+       "x": 913,
+       "y": 1525
+      },
+      {
+       "x": 856,
+       "y": 1525
+      }
+     ]
+    },
+    "description": "9%",
+    "score": 0.99,
+    "line": 17,
+    "__imgscaled": true,
+    "x": 856,
+    "y": 1490,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1570,
+       "y": 1487
+      },
+      {
+       "x": 1595,
+       "y": 1487
+      },
+      {
+       "x": 1595,
+       "y": 1522
+      },
+      {
+       "x": 1570,
+       "y": 1522
+      }
+     ]
+    },
+    "description": "9",
+    "score": 0.99,
+    "line": 17,
+    "__imgscaled": true,
+    "x": 1570,
+    "y": 1487,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1606,
+       "y": 1484
+      },
+      {
+       "x": 1640,
+       "y": 1484
+      },
+      {
+       "x": 1640,
+       "y": 1520
+      },
+      {
+       "x": 1606,
+       "y": 1520
+      }
+     ]
+    },
+    "description": "%",
+    "score": 0.99,
+    "line": 17,
+    "__imgscaled": true,
+    "x": 1606,
+    "y": 1484,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1918,
+       "y": 1483
+      },
+      {
+       "x": 2023,
+       "y": 1483
+      },
+      {
+       "x": 2023,
+       "y": 1519
+      },
+      {
+       "x": 1918,
+       "y": 1519
+      }
+     ]
+    },
+    "description": "156.89",
+    "score": 0.99,
+    "line": 17,
+    "__imgscaled": true,
+    "x": 1918,
+    "y": 1483,
+    "height": 36,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 838,
+       "y": 1687
+      },
+      {
+       "x": 914,
+       "y": 1687
+      },
+      {
+       "x": 914,
+       "y": 1720
+      },
+      {
+       "x": 838,
+       "y": 1720
+      }
+     ]
+    },
+    "description": "Total",
+    "score": 0.99,
+    "line": 18,
+    "__imgscaled": true,
+    "x": 838,
+    "y": 1687,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1327,
+       "y": 1686
+      },
+      {
+       "x": 1349,
+       "y": 1686
+      },
+      {
+       "x": 1349,
+       "y": 1720
+      },
+      {
+       "x": 1327,
+       "y": 1720
+      }
+     ]
+    },
+    "description": "1",
+    "score": 0.99,
+    "line": 18,
+    "__imgscaled": true,
+    "x": 1327,
+    "y": 1686,
+    "height": 34,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1354,
+       "y": 1686
+      },
+      {
+       "x": 1424,
+       "y": 1686
+      },
+      {
+       "x": 1424,
+       "y": 1722
+      },
+      {
+       "x": 1354,
+       "y": 1722
+      }
+     ]
+    },
+    "description": "Nos",
+    "score": 0.99,
+    "line": 18,
+    "__imgscaled": true,
+    "x": 1354,
+    "y": 1686,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1821,
+       "y": 1689
+      },
+      {
+       "x": 1851,
+       "y": 1689
+      },
+      {
+       "x": 1851,
+       "y": 1731
+      },
+      {
+       "x": 1821,
+       "y": 1731
+      }
+     ]
+    },
+    "description": "A",
+    "score": 0.46,
+    "line": 18,
+    "__imgscaled": true,
+    "x": 1821,
+    "y": 1689,
+    "height": 42,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1855,
+       "y": 1685
+      },
+      {
+       "x": 2020,
+       "y": 1685
+      },
+      {
+       "x": 2020,
+       "y": 1731
+      },
+      {
+       "x": 1855,
+       "y": 1731
+      }
+     ]
+    },
+    "description": "2,057.05",
+    "score": 0.99,
+    "line": 18,
+    "__imgscaled": true,
+    "x": 1855,
+    "y": 1685,
+    "height": 46,
+    "tag": "net-amount"
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 382,
+       "y": 1741
+      },
+      {
+       "x": 489,
+       "y": 1741
+      },
+      {
+       "x": 489,
+       "y": 1773
+      },
+      {
+       "x": 382,
+       "y": 1773
+      }
+     ]
+    },
+    "description": "Amount",
+    "score": 0.99,
+    "line": 19,
+    "__imgscaled": true,
+    "x": 382,
+    "y": 1741,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 490,
+       "y": 1739
+      },
+      {
+       "x": 643,
+       "y": 1739
+      },
+      {
+       "x": 643,
+       "y": 1777
+      },
+      {
+       "x": 490,
+       "y": 1777
+      }
+     ]
+    },
+    "description": "Chargeable",
+    "score": 0.99,
+    "line": 19,
+    "__imgscaled": true,
+    "x": 490,
+    "y": 1739,
+    "height": 38,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 646,
+       "y": 1739
+      },
+      {
+       "x": 682,
+       "y": 1739
+      },
+      {
+       "x": 682,
+       "y": 1777
+      },
+      {
+       "x": 646,
+       "y": 1777
+      }
+     ]
+    },
+    "description": "(in",
+    "score": 0.99,
+    "line": 19,
+    "__imgscaled": true,
+    "x": 646,
+    "y": 1739,
+    "height": 38,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 681,
+       "y": 1739
+      },
+      {
+       "x": 775,
+       "y": 1739
+      },
+      {
+       "x": 775,
+       "y": 1776
+      },
+      {
+       "x": 681,
+       "y": 1776
+      }
+     ]
+    },
+    "description": "words)",
+    "score": 0.99,
+    "line": 19,
+    "__imgscaled": true,
+    "x": 681,
+    "y": 1739,
+    "height": 37,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1902,
+       "y": 1734
+      },
+      {
+       "x": 1936,
+       "y": 1734
+      },
+      {
+       "x": 1936,
+       "y": 1767
+      },
+      {
+       "x": 1902,
+       "y": 1767
+      }
+     ]
+    },
+    "description": "E.",
+    "score": 0.99,
+    "line": 19,
+    "__imgscaled": true,
+    "x": 1902,
+    "y": 1734,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1928,
+       "y": 1733
+      },
+      {
+       "x": 2028,
+       "y": 1733
+      },
+      {
+       "x": 2028,
+       "y": 1768
+      },
+      {
+       "x": 1928,
+       "y": 1768
+      }
+     ]
+    },
+    "description": "T&O.E",
+    "score": 0.37,
+    "line": 19,
+    "__imgscaled": true,
+    "x": 1928,
+    "y": 1733,
+    "height": 35,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 386,
+       "y": 1788
+      },
+      {
+       "x": 450,
+       "y": 1788
+      },
+      {
+       "x": 450,
+       "y": 1823
+      },
+      {
+       "x": 386,
+       "y": 1823
+      }
+     ]
+    },
+    "description": "INR",
+    "score": 0.99,
+    "line": 20,
+    "__imgscaled": true,
+    "x": 386,
+    "y": 1788,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 451,
+       "y": 1788
+      },
+      {
+       "x": 526,
+       "y": 1788
+      },
+      {
+       "x": 526,
+       "y": 1822
+      },
+      {
+       "x": 451,
+       "y": 1822
+      }
+     ]
+    },
+    "description": "Two",
+    "score": 0.99,
+    "line": 20,
+    "__imgscaled": true,
+    "x": 451,
+    "y": 1788,
+    "height": 34,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 528,
+       "y": 1787
+      },
+      {
+       "x": 696,
+       "y": 1787
+      },
+      {
+       "x": 696,
+       "y": 1822
+      },
+      {
+       "x": 528,
+       "y": 1822
+      }
+     ]
+    },
+    "description": "Thousand",
+    "score": 0.99,
+    "line": 20,
+    "__imgscaled": true,
+    "x": 528,
+    "y": 1787,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 700,
+       "y": 1787
+      },
+      {
+       "x": 776,
+       "y": 1787
+      },
+      {
+       "x": 776,
+       "y": 1829
+      },
+      {
+       "x": 700,
+       "y": 1829
+      }
+     ]
+    },
+    "description": "Fifty",
+    "score": 0.99,
+    "line": 20,
+    "__imgscaled": true,
+    "x": 700,
+    "y": 1787,
+    "height": 42,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 779,
+       "y": 1787
+      },
+      {
+       "x": 884,
+       "y": 1787
+      },
+      {
+       "x": 884,
+       "y": 1822
+      },
+      {
+       "x": 779,
+       "y": 1822
+      }
+     ]
+    },
+    "description": "Seven",
+    "score": 0.99,
+    "line": 20,
+    "__imgscaled": true,
+    "x": 779,
+    "y": 1787,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 889,
+       "y": 1787
+      },
+      {
+       "x": 955,
+       "y": 1787
+      },
+      {
+       "x": 955,
+       "y": 1822
+      },
+      {
+       "x": 889,
+       "y": 1822
+      }
+     ]
+    },
+    "description": "and",
+    "score": 0.99,
+    "line": 20,
+    "__imgscaled": true,
+    "x": 889,
+    "y": 1787,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 959,
+       "y": 1785
+      },
+      {
+       "x": 1033,
+       "y": 1785
+      },
+      {
+       "x": 1033,
+       "y": 1822
+      },
+      {
+       "x": 959,
+       "y": 1822
+      }
+     ]
+    },
+    "description": "Five",
+    "score": 0.99,
+    "line": 20,
+    "__imgscaled": true,
+    "x": 959,
+    "y": 1785,
+    "height": 37,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1036,
+       "y": 1785
+      },
+      {
+       "x": 1131,
+       "y": 1785
+      },
+      {
+       "x": 1131,
+       "y": 1827
+      },
+      {
+       "x": 1036,
+       "y": 1827
+      }
+     ]
+    },
+    "description": "paise",
+    "score": 0.99,
+    "line": 20,
+    "__imgscaled": true,
+    "x": 1036,
+    "y": 1785,
+    "height": 42,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1131,
+       "y": 1786
+      },
+      {
+       "x": 1213,
+       "y": 1786
+      },
+      {
+       "x": 1213,
+       "y": 1828
+      },
+      {
+       "x": 1131,
+       "y": 1828
+      }
+     ]
+    },
+    "description": "Only",
+    "score": 0.99,
+    "line": 20,
+    "__imgscaled": true,
+    "x": 1131,
+    "y": 1786,
+    "height": 42,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 635,
+       "y": 1837
+      },
+      {
+       "x": 775,
+       "y": 1837
+      },
+      {
+       "x": 775,
+       "y": 1871
+      },
+      {
+       "x": 635,
+       "y": 1871
+      }
+     ]
+    },
+    "description": "HSN\/SAC",
+    "score": 0.99,
+    "line": 21,
+    "__imgscaled": true,
+    "x": 635,
+    "y": 1837,
+    "height": 34,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1088,
+       "y": 1836
+      },
+      {
+       "x": 1203,
+       "y": 1836
+      },
+      {
+       "x": 1203,
+       "y": 1869
+      },
+      {
+       "x": 1088,
+       "y": 1869
+      }
+     ]
+    },
+    "description": "Taxable",
+    "score": 0.99,
+    "line": 21,
+    "__imgscaled": true,
+    "x": 1088,
+    "y": 1836,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1310,
+       "y": 1836
+      },
+      {
+       "x": 1412,
+       "y": 1836
+      },
+      {
+       "x": 1412,
+       "y": 1868
+      },
+      {
+       "x": 1310,
+       "y": 1868
+      }
+     ]
+    },
+    "description": "Central",
+    "score": 0.99,
+    "line": 21,
+    "__imgscaled": true,
+    "x": 1310,
+    "y": 1836,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1416,
+       "y": 1837
+      },
+      {
+       "x": 1473,
+       "y": 1837
+      },
+      {
+       "x": 1473,
+       "y": 1869
+      },
+      {
+       "x": 1416,
+       "y": 1869
+      }
+     ]
+    },
+    "description": "Tax",
+    "score": 0.99,
+    "line": 21,
+    "__imgscaled": true,
+    "x": 1416,
+    "y": 1837,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1628,
+       "y": 1836
+      },
+      {
+       "x": 1705,
+       "y": 1836
+      },
+      {
+       "x": 1705,
+       "y": 1867
+      },
+      {
+       "x": 1628,
+       "y": 1867
+      }
+     ]
+    },
+    "description": "State",
+    "score": 0.99,
+    "line": 21,
+    "__imgscaled": true,
+    "x": 1628,
+    "y": 1836,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1707,
+       "y": 1835
+      },
+      {
+       "x": 1763,
+       "y": 1835
+      },
+      {
+       "x": 1763,
+       "y": 1867
+      },
+      {
+       "x": 1707,
+       "y": 1867
+      }
+     ]
+    },
+    "description": "Tax",
+    "score": 0.99,
+    "line": 21,
+    "__imgscaled": true,
+    "x": 1707,
+    "y": 1835,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1902,
+       "y": 1834
+      },
+      {
+       "x": 1980,
+       "y": 1834
+      },
+      {
+       "x": 1980,
+       "y": 1867
+      },
+      {
+       "x": 1902,
+       "y": 1867
+      }
+     ]
+    },
+    "description": "Total",
+    "score": 0.99,
+    "line": 21,
+    "__imgscaled": true,
+    "x": 1902,
+    "y": 1834,
+    "height": 33,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1107,
+       "y": 1874
+      },
+      {
+       "x": 1189,
+       "y": 1874
+      },
+      {
+       "x": 1189,
+       "y": 1905
+      },
+      {
+       "x": 1107,
+       "y": 1905
+      }
+     ]
+    },
+    "description": "Value",
+    "score": 0.99,
+    "line": 22,
+    "__imgscaled": true,
+    "x": 1107,
+    "y": 1874,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1264,
+       "y": 1874
+      },
+      {
+       "x": 1334,
+       "y": 1874
+      },
+      {
+       "x": 1334,
+       "y": 1906
+      },
+      {
+       "x": 1264,
+       "y": 1906
+      }
+     ]
+    },
+    "description": "Rate",
+    "score": 0.99,
+    "line": 22,
+    "__imgscaled": true,
+    "x": 1264,
+    "y": 1874,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1393,
+       "y": 1874
+      },
+      {
+       "x": 1506,
+       "y": 1874
+      },
+      {
+       "x": 1506,
+       "y": 1905
+      },
+      {
+       "x": 1393,
+       "y": 1905
+      }
+     ]
+    },
+    "description": "Amount",
+    "score": 0.99,
+    "line": 22,
+    "__imgscaled": true,
+    "x": 1393,
+    "y": 1874,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1567,
+       "y": 1874
+      },
+      {
+       "x": 1636,
+       "y": 1874
+      },
+      {
+       "x": 1636,
+       "y": 1905
+      },
+      {
+       "x": 1567,
+       "y": 1905
+      }
+     ]
+    },
+    "description": "Rate",
+    "score": 0.99,
+    "line": 22,
+    "__imgscaled": true,
+    "x": 1567,
+    "y": 1874,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1697,
+       "y": 1874
+      },
+      {
+       "x": 1808,
+       "y": 1874
+      },
+      {
+       "x": 1808,
+       "y": 1904
+      },
+      {
+       "x": 1697,
+       "y": 1904
+      }
+     ]
+    },
+    "description": "Amount",
+    "score": 0.99,
+    "line": 22,
+    "__imgscaled": true,
+    "x": 1697,
+    "y": 1874,
+    "height": 30,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1856,
+       "y": 1872
+      },
+      {
+       "x": 1914,
+       "y": 1872
+      },
+      {
+       "x": 1914,
+       "y": 1903
+      },
+      {
+       "x": 1856,
+       "y": 1903
+      }
+     ]
+    },
+    "description": "Tax",
+    "score": 0.99,
+    "line": 22,
+    "__imgscaled": true,
+    "x": 1856,
+    "y": 1872,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1914,
+       "y": 1872
+      },
+      {
+       "x": 2025,
+       "y": 1872
+      },
+      {
+       "x": 2025,
+       "y": 1903
+      },
+      {
+       "x": 1914,
+       "y": 1903
+      }
+     ]
+    },
+    "description": "Amount",
+    "score": 0.99,
+    "line": 22,
+    "__imgscaled": true,
+    "x": 1914,
+    "y": 1872,
+    "height": 31,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 383,
+       "y": 1912
+      },
+      {
+       "x": 459,
+       "y": 1912
+      },
+      {
+       "x": 459,
+       "y": 1945
+      },
+      {
+       "x": 383,
+       "y": 1945
+      }
+     ]
+    },
+    "description": "8443",
+    "score": 0.99,
+    "line": 23,
+    "__imgscaled": true,
+    "x": 383,
+    "y": 1912,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1112,
+       "y": 1911
+      },
+      {
+       "x": 1237,
+       "y": 1911
+      },
+      {
+       "x": 1237,
+       "y": 1943
+      },
+      {
+       "x": 1112,
+       "y": 1943
+      }
+     ]
+    },
+    "description": "1.743.27",
+    "score": 0.99,
+    "line": 23,
+    "__imgscaled": true,
+    "x": 1112,
+    "y": 1911,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1300,
+       "y": 1910
+      },
+      {
+       "x": 1347,
+       "y": 1910
+      },
+      {
+       "x": 1347,
+       "y": 1942
+      },
+      {
+       "x": 1300,
+       "y": 1942
+      }
+     ]
+    },
+    "description": "9%",
+    "score": 0.99,
+    "line": 23,
+    "__imgscaled": true,
+    "x": 1300,
+    "y": 1910,
+    "height": 32,
+    "tag": "tax"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1442,
+       "y": 1911
+      },
+      {
+       "x": 1538,
+       "y": 1911
+      },
+      {
+       "x": 1538,
+       "y": 1942
+      },
+      {
+       "x": 1442,
+       "y": 1942
+      }
+     ]
+    },
+    "description": "156.89",
+    "score": 0.99,
+    "line": 23,
+    "__imgscaled": true,
+    "x": 1442,
+    "y": 1911,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1602,
+       "y": 1910
+      },
+      {
+       "x": 1650,
+       "y": 1910
+      },
+      {
+       "x": 1650,
+       "y": 1942
+      },
+      {
+       "x": 1602,
+       "y": 1942
+      }
+     ]
+    },
+    "description": "9%",
+    "score": 0.99,
+    "line": 23,
+    "__imgscaled": true,
+    "x": 1602,
+    "y": 1910,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1743,
+       "y": 1909
+      },
+      {
+       "x": 1842,
+       "y": 1909
+      },
+      {
+       "x": 1842,
+       "y": 1941
+      },
+      {
+       "x": 1743,
+       "y": 1941
+      }
+     ]
+    },
+    "description": "156.89",
+    "score": 0.99,
+    "line": 23,
+    "__imgscaled": true,
+    "x": 1743,
+    "y": 1909,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1929,
+       "y": 1908
+      },
+      {
+       "x": 2028,
+       "y": 1908
+      },
+      {
+       "x": 2028,
+       "y": 1941
+      },
+      {
+       "x": 1929,
+       "y": 1941
+      }
+     ]
+    },
+    "description": "313.78",
+    "score": 0.99,
+    "line": 23,
+    "__imgscaled": true,
+    "x": 1929,
+    "y": 1908,
+    "height": 33,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 967,
+       "y": 1949
+      },
+      {
+       "x": 1047,
+       "y": 1949
+      },
+      {
+       "x": 1047,
+       "y": 1981
+      },
+      {
+       "x": 967,
+       "y": 1981
+      }
+     ]
+    },
+    "description": "Total",
+    "score": 0.99,
+    "line": 24,
+    "__imgscaled": true,
+    "x": 967,
+    "y": 1949,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1112,
+       "y": 1949
+      },
+      {
+       "x": 1236,
+       "y": 1949
+      },
+      {
+       "x": 1236,
+       "y": 1984
+      },
+      {
+       "x": 1112,
+       "y": 1984
+      }
+     ]
+    },
+    "description": "1,743.27",
+    "score": 0.99,
+    "line": 24,
+    "__imgscaled": true,
+    "x": 1112,
+    "y": 1949,
+    "height": 35,
+    "tag": "total"
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1440,
+       "y": 1948
+      },
+      {
+       "x": 1538,
+       "y": 1948
+      },
+      {
+       "x": 1538,
+       "y": 1980
+      },
+      {
+       "x": 1440,
+       "y": 1980
+      }
+     ]
+    },
+    "description": "156.89",
+    "score": 0.99,
+    "line": 24,
+    "__imgscaled": true,
+    "x": 1440,
+    "y": 1948,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1744,
+       "y": 1947
+      },
+      {
+       "x": 1840,
+       "y": 1947
+      },
+      {
+       "x": 1840,
+       "y": 1979
+      },
+      {
+       "x": 1744,
+       "y": 1979
+      }
+     ]
+    },
+    "description": "156.89",
+    "score": 0.99,
+    "line": 24,
+    "__imgscaled": true,
+    "x": 1744,
+    "y": 1947,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1930,
+       "y": 1947
+      },
+      {
+       "x": 2029,
+       "y": 1947
+      },
+      {
+       "x": 2029,
+       "y": 1979
+      },
+      {
+       "x": 1930,
+       "y": 1979
+      }
+     ]
+    },
+    "description": "313.78",
+    "score": 0.99,
+    "line": 24,
+    "__imgscaled": true,
+    "x": 1930,
+    "y": 1947,
+    "height": 32,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 386,
+       "y": 2009
+      },
+      {
+       "x": 439,
+       "y": 2009
+      },
+      {
+       "x": 439,
+       "y": 2037
+      },
+      {
+       "x": 386,
+       "y": 2037
+      }
+     ]
+    },
+    "description": "Tax",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 386,
+    "y": 2009,
+    "height": 28,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 440,
+       "y": 2008
+      },
+      {
+       "x": 545,
+       "y": 2008
+      },
+      {
+       "x": 545,
+       "y": 2036
+      },
+      {
+       "x": 440,
+       "y": 2036
+      }
+     ]
+    },
+    "description": "Amount",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 440,
+    "y": 2008,
+    "height": 28,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 548,
+       "y": 2008
+      },
+      {
+       "x": 584,
+       "y": 2008
+      },
+      {
+       "x": 584,
+       "y": 2041
+      },
+      {
+       "x": 548,
+       "y": 2041
+      }
+     ]
+    },
+    "description": "(in",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 548,
+    "y": 2008,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 586,
+       "y": 2008
+      },
+      {
+       "x": 677,
+       "y": 2008
+      },
+      {
+       "x": 677,
+       "y": 2040
+      },
+      {
+       "x": 586,
+       "y": 2040
+      }
+     ]
+    },
+    "description": "words)",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 586,
+    "y": 2008,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 687,
+       "y": 2011
+      },
+      {
+       "x": 701,
+       "y": 2011
+      },
+      {
+       "x": 701,
+       "y": 2037
+      },
+      {
+       "x": 687,
+       "y": 2037
+      }
+     ]
+    },
+    "description": ":",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 687,
+    "y": 2011,
+    "height": 26,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 715,
+       "y": 2008
+      },
+      {
+       "x": 779,
+       "y": 2008
+      },
+      {
+       "x": 779,
+       "y": 2039
+      },
+      {
+       "x": 715,
+       "y": 2039
+      }
+     ]
+    },
+    "description": "INR",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 715,
+    "y": 2008,
+    "height": 31,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 781,
+       "y": 2009
+      },
+      {
+       "x": 882,
+       "y": 2009
+      },
+      {
+       "x": 882,
+       "y": 2042
+      },
+      {
+       "x": 781,
+       "y": 2042
+      }
+     ]
+    },
+    "description": "Three",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 781,
+    "y": 2009,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 884,
+       "y": 2008
+      },
+      {
+       "x": 1029,
+       "y": 2008
+      },
+      {
+       "x": 1029,
+       "y": 2044
+      },
+      {
+       "x": 884,
+       "y": 2044
+      }
+     ]
+    },
+    "description": "Hupetred",
+    "score": 0.36,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 884,
+    "y": 2008,
+    "height": 36,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1032,
+       "y": 2007
+      },
+      {
+       "x": 1171,
+       "y": 2007
+      },
+      {
+       "x": 1171,
+       "y": 2041
+      },
+      {
+       "x": 1032,
+       "y": 2041
+      }
+     ]
+    },
+    "description": "Thirteen",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 1032,
+    "y": 2007,
+    "height": 34,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1175,
+       "y": 2007
+      },
+      {
+       "x": 1241,
+       "y": 2007
+      },
+      {
+       "x": 1241,
+       "y": 2039
+      },
+      {
+       "x": 1175,
+       "y": 2039
+      }
+     ]
+    },
+    "description": "and",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 1175,
+    "y": 2007,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1245,
+       "y": 2006
+      },
+      {
+       "x": 1379,
+       "y": 2006
+      },
+      {
+       "x": 1379,
+       "y": 2045
+      },
+      {
+       "x": 1245,
+       "y": 2045
+      }
+     ]
+    },
+    "description": "Seventy",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 1245,
+    "y": 2006,
+    "height": 39,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1383,
+       "y": 2007
+      },
+      {
+       "x": 1473,
+       "y": 2007
+      },
+      {
+       "x": 1473,
+       "y": 2044
+      },
+      {
+       "x": 1383,
+       "y": 2044
+      }
+     ]
+    },
+    "description": "Eight",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 1383,
+    "y": 2007,
+    "height": 37,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1477,
+       "y": 2007
+      },
+      {
+       "x": 1567,
+       "y": 2007
+      },
+      {
+       "x": 1567,
+       "y": 2044
+      },
+      {
+       "x": 1477,
+       "y": 2044
+      }
+     ]
+    },
+    "description": "paise",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 1477,
+    "y": 2007,
+    "height": 37,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1571,
+       "y": 2005
+      },
+      {
+       "x": 1653,
+       "y": 2005
+      },
+      {
+       "x": 1653,
+       "y": 2044
+      },
+      {
+       "x": 1571,
+       "y": 2044
+      }
+     ]
+    },
+    "description": "Only",
+    "score": 0.99,
+    "line": 25,
+    "__imgscaled": true,
+    "x": 1571,
+    "y": 2005,
+    "height": 39,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 386,
+       "y": 2269
+      },
+      {
+       "x": 545,
+       "y": 2269
+      },
+      {
+       "x": 545,
+       "y": 2307
+      },
+      {
+       "x": 386,
+       "y": 2307
+      }
+     ]
+    },
+    "description": "Company's",
+    "score": 0.99,
+    "line": 26,
+    "__imgscaled": true,
+    "x": 386,
+    "y": 2269,
+    "height": 38,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 547,
+       "y": 2270
+      },
+      {
+       "x": 569,
+       "y": 2270
+      },
+      {
+       "x": 569,
+       "y": 2300
+      },
+      {
+       "x": 547,
+       "y": 2300
+      }
+     ]
+    },
+    "description": "P",
+    "score": 0.98,
+    "line": 26,
+    "__imgscaled": true,
+    "x": 547,
+    "y": 2270,
+    "height": 30,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 386,
+       "y": 2316
+      },
+      {
+       "x": 536,
+       "y": 2316
+      },
+      {
+       "x": 536,
+       "y": 2348
+      },
+      {
+       "x": 386,
+       "y": 2348
+      }
+     ]
+    },
+    "description": "Declaration",
+    "score": 0.99,
+    "line": 27,
+    "__imgscaled": true,
+    "x": 386,
+    "y": 2316,
+    "height": 32,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 1666,
+       "y": 2321
+      },
+      {
+       "x": 1705,
+       "y": 2321
+      },
+      {
+       "x": 1705,
+       "y": 2349
+      },
+      {
+       "x": 1666,
+       "y": 2349
+      }
+     ]
+    },
+    "description": "rint",
+    "score": 0.88,
+    "line": 27,
+    "__imgscaled": true,
+    "x": 1666,
+    "y": 2321,
+    "height": 28,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 389,
+       "y": 2352
+      },
+      {
+       "x": 440,
+       "y": 2352
+      },
+      {
+       "x": 440,
+       "y": 2385
+      },
+      {
+       "x": 389,
+       "y": 2385
+      }
+     ]
+    },
+    "description": "We",
+    "score": 0.99,
+    "line": 28,
+    "__imgscaled": true,
+    "x": 389,
+    "y": 2352,
+    "height": 33,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 443,
+       "y": 2352
+      },
+      {
+       "x": 551,
+       "y": 2352
+      },
+      {
+       "x": 551,
+       "y": 2386
+      },
+      {
+       "x": 443,
+       "y": 2386
+      }
+     ]
+    },
+    "description": "declare",
+    "score": 0.99,
+    "line": 28,
+    "__imgscaled": true,
+    "x": 443,
+    "y": 2352,
+    "height": 34,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 551,
+       "y": 2353
+      },
+      {
+       "x": 567,
+       "y": 2353
+      },
+      {
+       "x": 567,
+       "y": 2384
+      },
+      {
+       "x": 551,
+       "y": 2384
+      }
+     ]
+    },
+    "description": "t",
+    "score": 0.99,
+    "line": 28,
+    "__imgscaled": true,
+    "x": 551,
+    "y": 2353,
+    "height": 31,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 388,
+       "y": 2392
+      },
+      {
+       "x": 476,
+       "y": 2392
+      },
+      {
+       "x": 476,
+       "y": 2427
+      },
+      {
+       "x": 388,
+       "y": 2427
+      }
+     ]
+    },
+    "description": "goods",
+    "score": 0.99,
+    "line": 29,
+    "__imgscaled": true,
+    "x": 388,
+    "y": 2392,
+    "height": 35,
+    "tag": ""
+   },
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 479,
+       "y": 2390
+      },
+      {
+       "x": 567,
+       "y": 2390
+      },
+      {
+       "x": 567,
+       "y": 2421
+      },
+      {
+       "x": 479,
+       "y": 2421
+      }
+     ]
+    },
+    "description": "descri",
+    "score": 0.99,
+    "line": 29,
+    "__imgscaled": true,
+    "x": 479,
+    "y": 2390,
+    "height": 31,
+    "tag": ""
+   }
+  ],
+  [
+   {
+    "boundingPoly": {
+     "vertices": [
+      {
+       "x": 389,
+       "y": 2426
+      },
+      {
+       "x": 495,
+       "y": 2426
+      },
+      {
+       "x": 495,
+       "y": 2459
+      },
+      {
+       "x": 389,
+       "y": 2459
+      }
+     ]
+    },
+    "description": "correct.",
+    "score": 0.99,
+    "line": 30,
+    "__imgscaled": true,
+    "x": 389,
+    "y": 2426,
+    "height": 33,
+    "tag": ""
+   }
+  ]
+ ],
+ "manual_edit": {
+  "fields": [
+
+  ]
+ },
+ "schema": [
+  "date",
+  "tax",
+  "total",
+  "invoice-no",
+  "description",
+  "unit-price",
+  "net-amount",
+  "name",
+  "quantity",
+  "line-amount"
+ ],
+ "subset": "TRAIN"
+}
